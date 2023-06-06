@@ -1,0 +1,81 @@
+lejandra
+  246  git push -u origin main
+  247  cd desktop
+  248  cd primer parcial
+  249  cd primerparcial
+  250  git remote add origin https://github.com/Alejamarialzate/20230605-AlejandraAlzate.git
+  251  git remote -v
+  252  touch comandos.txt, main.js, index.html
+  253  git init
+  254  git config user.name
+  255  git config user.mail
+  256  git add .
+  257  git status
+  258  git commit -m "primerparcialsubiendolosarchivos"
+  259  git branch -M main
+  260  git remote add origin https://github.com/Alejamarialzate/20230605-AlejandraAlzate.git
+  261  git push -u origin main
+  262  git branch
+  263  git branch main
+  264  git branch feature
+  265  git branch
+  266  git checkout feature -b
+  267  git checkout -b feature
+  268  git branch
+  269  git checkout feature
+  270  git branch
+  271  mkdir hardware, software, seguridadinformatica
+  272  cd hardware
+  273  cd hardware,
+  274  touch resumen.txt
+  275  cd software,
+  276  cd../
+  277  cd ../
+  278  cd software,
+  279  touch resumen.txt
+  280  cd ../
+  281  cd seguridadinformatica
+  282  touch resumen.txt
+  283  cd ../
+  284  git branch
+  285  git push origin main feature: origin main
+  286  git push origin feature: main
+  287  git push origin feature:feature
+  288  git init
+  289  git add .
+  290  git commit -m "cambiosnuevarama"
+  291  git push feature
+  292  git push origin feature:feature
+  293  git branch main
+  294  git checkout main
+  295  git branch
+  296  git mv main.js, resumenhardware.txt
+  297  git mv index.html resumensoftware.txt
+  298  cd resumensiftware.txt
+  299  cd ../
+  300  cd primerparcial
+  301  cd resumensoftware
+  302  cd resumensoftware
+  303  cd "resumensoftwarw"
+  304  cd "resumensoftware"
+  305  ls
+  306  cd comando.txt,
+  307  cd comando.txt
+  308  cd primerparcial/comando.txt,
+  309  pwd
+  310  cd /c/Users/aleja/desktop/primerparcial/comandos.txt,
+  311  cd
+  312  cd primerparcial
+  313  cd desktop
+  314  cd primerparcial
+  315  cd resumenharadware
+  316  git branch
+  317  ls -l
+  318  cd "comandos.txt,"
+  319  cd comandos.txt,
+  320  cd 'comandos.txt,'
+  321  nano comandos.txt,
+  322  nano resumenhardware.txt,
+  323  nano resumensoftware
+  324  history
+
